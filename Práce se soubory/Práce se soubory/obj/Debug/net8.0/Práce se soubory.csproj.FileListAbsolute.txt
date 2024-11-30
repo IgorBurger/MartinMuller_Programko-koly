@@ -1,0 +1,14 @@
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\bin\Debug\net8.0\Práce se soubory.exe
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\bin\Debug\net8.0\Práce se soubory.deps.json
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\bin\Debug\net8.0\Práce se soubory.runtimeconfig.json
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\bin\Debug\net8.0\Práce se soubory.dll
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\bin\Debug\net8.0\Práce se soubory.pdb
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\obj\Debug\net8.0\Práce se soubory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\obj\Debug\net8.0\Práce se soubory.AssemblyInfoInputs.cache
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\obj\Debug\net8.0\Práce se soubory.AssemblyInfo.cs
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\obj\Debug\net8.0\Práce se soubory.csproj.CoreCompileInputs.cache
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\obj\Debug\net8.0\Práce se soubory.dll
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\obj\Debug\net8.0\refint\Práce se soubory.dll
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\obj\Debug\net8.0\Práce se soubory.pdb
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\obj\Debug\net8.0\Práce se soubory.genruntimeconfig.cache
+C:\Users\mulle\OneDrive\Documents\programko\práce se soubory\Práce se soubory\Práce se soubory\obj\Debug\net8.0\ref\Práce se soubory.dll

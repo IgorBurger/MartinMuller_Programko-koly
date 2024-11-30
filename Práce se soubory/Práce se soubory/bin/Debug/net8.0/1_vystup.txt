@@ -1,0 +1,11 @@
+Number of words: 2
+Number of character (with white spaces): 14
+Number of character (without white spaces): 11
+
+Word dictionary: 
+hello: 1
+there!: 1
+
+Words by order: 
+
+hello there!

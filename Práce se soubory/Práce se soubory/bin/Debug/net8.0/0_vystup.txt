@@ -1,0 +1,10 @@
+Number of words: 1
+Number of character (with white spaces): 4
+Number of character (without white spaces): 4
+
+Word dictionary: 
+azAZ: 1
+
+Words by order: 
+
+azAZ

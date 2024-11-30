@@ -1,0 +1,13 @@
+Number of words: 9
+Number of character (with white spaces): 86
+Number of character (without white spaces): 50
+
+Word dictionary: 
+hello: 5
+there!: 1
+G3n3r41: 1
+K3nöbi: 2
+
+Words by order: 
+
+hello there! G3n3r41 K3nöbi hello K3nöbi hello hello hello

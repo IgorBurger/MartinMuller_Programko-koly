@@ -1,0 +1,10 @@
+Number of words: 0
+Number of character (with white spaces): 0
+Number of character (without white spaces): 0
+
+Word dictionary: 
+
+
+Words by order: 
+
+

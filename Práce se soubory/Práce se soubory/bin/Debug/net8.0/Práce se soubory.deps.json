@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Práce se soubory/1.0.0": {
+        "runtime": {
+          "Práce se soubory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Práce se soubory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
