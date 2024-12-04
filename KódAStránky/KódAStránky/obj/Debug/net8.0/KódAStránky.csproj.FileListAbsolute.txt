@@ -1,0 +1,14 @@
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\bin\Debug\net8.0\KódAStránky.exe
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\bin\Debug\net8.0\KódAStránky.deps.json
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\bin\Debug\net8.0\KódAStránky.runtimeconfig.json
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\bin\Debug\net8.0\KódAStránky.dll
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\bin\Debug\net8.0\KódAStránky.pdb
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\obj\Debug\net8.0\KódAStránky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\obj\Debug\net8.0\KódAStránky.AssemblyInfoInputs.cache
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\obj\Debug\net8.0\KódAStránky.AssemblyInfo.cs
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\obj\Debug\net8.0\KódAStránky.csproj.CoreCompileInputs.cache
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\obj\Debug\net8.0\KódAStránky.dll
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\obj\Debug\net8.0\refint\KódAStránky.dll
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\obj\Debug\net8.0\KódAStránky.pdb
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\obj\Debug\net8.0\KódAStránky.genruntimeconfig.cache
+C:\Users\mulle\OneDrive\Documents\programko\Stránka\KódAStránky\KódAStránky\obj\Debug\net8.0\ref\KódAStránky.dll
