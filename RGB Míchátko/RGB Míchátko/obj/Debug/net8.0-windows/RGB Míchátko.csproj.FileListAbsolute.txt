@@ -1,0 +1,21 @@
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\bin\Debug\net8.0-windows\RGB Míchátko.exe
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\bin\Debug\net8.0-windows\RGB Míchátko.deps.json
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\bin\Debug\net8.0-windows\RGB Míchátko.runtimeconfig.json
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\bin\Debug\net8.0-windows\RGB Míchátko.dll
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\bin\Debug\net8.0-windows\RGB Míchátko.pdb
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\RGB Míchátko_MarkupCompile.cache
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\RGB Míchátko_MarkupCompile.lref
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\RGB Míchátko.g.resources
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\RGB Míchátko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\RGB Míchátko.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\RGB Míchátko.AssemblyInfo.cs
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\RGB Míchátko.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\RGB Míchátko.sourcelink.json
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\RGB Míchátko.dll
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\refint\RGB Míchátko.dll
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\RGB Míchátko.pdb
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\RGB Míchátko.genruntimeconfig.cache
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\RGB Míchátko\RGB Míchátko\obj\Debug\net8.0-windows\ref\RGB Míchátko.dll
