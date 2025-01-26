@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Martin\\.nuget\\packages\\": {}
+    "C:\\Users\\mulle\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Martin\\Documents\\Škola\\ProG\\MartinMuller_Programko-koly\\RGB Míchátko\\RGB Míchátko\\RGB Míchátko.csproj",
+      "projectUniqueName": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\MartinMuller_ProgramkoÚkoly\\RGB Míchátko\\RGB Míchátko\\RGB Míchátko.csproj",
       "projectName": "RGB Míchátko",
-      "projectPath": "C:\\Users\\Martin\\Documents\\Škola\\ProG\\MartinMuller_Programko-koly\\RGB Míchátko\\RGB Míchátko\\RGB Míchátko.csproj",
-      "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Martin\\Documents\\Škola\\ProG\\MartinMuller_Programko-koly\\RGB Míchátko\\RGB Míchátko\\obj\\",
+      "projectPath": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\MartinMuller_ProgramkoÚkoly\\RGB Míchátko\\RGB Míchátko\\RGB Míchátko.csproj",
+      "packagesPath": "C:\\Users\\mulle\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\MartinMuller_ProgramkoÚkoly\\RGB Míchátko\\RGB Míchátko\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mulle\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

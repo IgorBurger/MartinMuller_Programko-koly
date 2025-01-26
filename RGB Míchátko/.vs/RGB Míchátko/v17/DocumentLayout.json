@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Martin\\Documents\\\u0160kola\\ProG\\MartinMuller_Programko-koly\\RGB M\u00EDch\u00E1tko\\",
+  "WorkspaceRootPath": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\MartinMuller_Programko\u00DAkoly\\RGB M\u00EDch\u00E1tko\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C648312B-9338-4307-89D2-7D155ECE5CD4}|RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko.csproj|c:\\users\\martin\\documents\\\u0161kola\\prog\\martinmuller_programko-koly\\rgb m\u00EDch\u00E1tko\\rgb m\u00EDch\u00E1tko\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C648312B-9338-4307-89D2-7D155ECE5CD4}|RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko.csproj|c:\\users\\mulle\\onedrive\\documents\\programko\\martinmuller_programko\u00FAkoly\\rgb m\u00EDch\u00E1tko\\rgb m\u00EDch\u00E1tko\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C648312B-9338-4307-89D2-7D155ECE5CD4}|RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko.csproj|solutionrelative:rgb m\u00EDch\u00E1tko\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C648312B-9338-4307-89D2-7D155ECE5CD4}|RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko.csproj|c:\\users\\martin\\documents\\\u0161kola\\prog\\martinmuller_programko-koly\\rgb m\u00EDch\u00E1tko\\rgb m\u00EDch\u00E1tko\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C648312B-9338-4307-89D2-7D155ECE5CD4}|RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko.csproj|c:\\users\\mulle\\onedrive\\documents\\programko\\martinmuller_programko\u00FAkoly\\rgb m\u00EDch\u00E1tko\\rgb m\u00EDch\u00E1tko\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C648312B-9338-4307-89D2-7D155ECE5CD4}|RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko.csproj|solutionrelative:rgb m\u00EDch\u00E1tko\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\\u0160kola\\ProG\\MartinMuller_Programko-koly\\RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\MartinMuller_Programko\u00DAkoly\\RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko\\MainWindow.xaml",
               "RelativeDocumentMoniker": "RGB M\u00EDch\u00E1tko\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\\u0160kola\\ProG\\MartinMuller_Programko-koly\\RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\MartinMuller_Programko\u00DAkoly\\RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko\\MainWindow.xaml",
               "RelativeToolTip": "RGB M\u00EDch\u00E1tko\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-06T17:57:48.925Z",
@@ -36,14 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\\u0160kola\\ProG\\MartinMuller_Programko-koly\\RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\MartinMuller_Programko\u00DAkoly\\RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "RGB M\u00EDch\u00E1tko\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\\u0160kola\\ProG\\MartinMuller_Programko-koly\\RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\MartinMuller_Programko\u00DAkoly\\RGB M\u00EDch\u00E1tko\\RGB M\u00EDch\u00E1tko\\MainWindow.xaml.cs",
               "RelativeToolTip": "RGB M\u00EDch\u00E1tko\\MainWindow.xaml.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAuwCQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T16:59:14.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T16:59:14.584Z"
             }
           ]
         }

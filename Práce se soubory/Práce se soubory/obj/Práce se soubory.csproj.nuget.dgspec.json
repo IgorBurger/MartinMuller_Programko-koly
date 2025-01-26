@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\práce se soubory\\Práce se soubory\\Práce se soubory\\Práce se soubory.csproj": {}
+    "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\MartinMuller_ProgramkoÚkoly\\Práce se soubory\\Práce se soubory\\Práce se soubory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\práce se soubory\\Práce se soubory\\Práce se soubory\\Práce se soubory.csproj": {
+    "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\MartinMuller_ProgramkoÚkoly\\Práce se soubory\\Práce se soubory\\Práce se soubory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\práce se soubory\\Práce se soubory\\Práce se soubory\\Práce se soubory.csproj",
+        "projectUniqueName": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\MartinMuller_ProgramkoÚkoly\\Práce se soubory\\Práce se soubory\\Práce se soubory.csproj",
         "projectName": "Práce se soubory",
-        "projectPath": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\práce se soubory\\Práce se soubory\\Práce se soubory\\Práce se soubory.csproj",
+        "projectPath": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\MartinMuller_ProgramkoÚkoly\\Práce se soubory\\Práce se soubory\\Práce se soubory.csproj",
         "packagesPath": "C:\\Users\\mulle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\práce se soubory\\Práce se soubory\\Práce se soubory\\obj\\",
+        "outputPath": "C:\\Users\\mulle\\OneDrive\\Documents\\programko\\MartinMuller_ProgramkoÚkoly\\Práce se soubory\\Práce se soubory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mulle\\AppData\\Roaming\\NuGet\\NuGet.Config",

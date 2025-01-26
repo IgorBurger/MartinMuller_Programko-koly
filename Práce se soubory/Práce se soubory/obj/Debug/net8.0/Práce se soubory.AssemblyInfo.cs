@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Práce se soubory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+388ae2917c0ed27b4bffed558fa2d792d203bc5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Práce se soubory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Práce se soubory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
