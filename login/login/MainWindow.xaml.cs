@@ -20,6 +20,7 @@ namespace login
         public MainWindow()
         {
             InitializeComponent();
+            Main.Content = new Page1();
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
@@ -84,6 +85,8 @@ namespace login
                         {
                             LoginError.Visibility = Visibility.Hidden;
                             Test.Visibility = Visibility.Visible;
+                            Main.Content= new Page1();
+
                         }
                         else 
                         {

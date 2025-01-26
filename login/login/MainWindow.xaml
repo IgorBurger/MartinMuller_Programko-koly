@@ -36,6 +36,6 @@
                 </Grid>
             </TabItem>
         </TabControl>
-
+        <Frame x:Name="Main"/>
     </Grid>
 </Window>
