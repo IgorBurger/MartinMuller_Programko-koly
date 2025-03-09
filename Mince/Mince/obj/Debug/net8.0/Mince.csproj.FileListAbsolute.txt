@@ -1,0 +1,15 @@
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\bin\Debug\net8.0\Mince.exe
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\bin\Debug\net8.0\Mince.deps.json
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\bin\Debug\net8.0\Mince.runtimeconfig.json
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\bin\Debug\net8.0\Mince.dll
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\bin\Debug\net8.0\Mince.pdb
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\obj\Debug\net8.0\Mince.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\obj\Debug\net8.0\Mince.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\obj\Debug\net8.0\Mince.AssemblyInfo.cs
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\obj\Debug\net8.0\Mince.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\obj\Debug\net8.0\Mince.sourcelink.json
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\obj\Debug\net8.0\Mince.dll
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\obj\Debug\net8.0\refint\Mince.dll
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\obj\Debug\net8.0\Mince.pdb
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\obj\Debug\net8.0\Mince.genruntimeconfig.cache
+C:\Users\Martin\Documents\Škola\ProG\MartinMuller_Programko-koly\Mince\Mince\obj\Debug\net8.0\ref\Mince.dll
