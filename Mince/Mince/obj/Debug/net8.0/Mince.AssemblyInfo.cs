@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mince")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+582d5def2bf74c49d504de3c5b4ff01e896dd12a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d7bbd2753f01ed78910bad643b4bd5dc488e2f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mince")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mince")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

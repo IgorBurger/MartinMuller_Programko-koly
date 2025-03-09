@@ -11,10 +11,21 @@ class Program
 
         Backtrack(coins, sum, 0, new List<int>(), results);
 
-        foreach (var result in results)
+
+        if (results[0].Count == 0)
         {
-            Console.WriteLine(string.Join(" ", result));
+            Console.WriteLine("Nelze :(");
         }
+        else
+        {
+            foreach (var result in results)
+            {
+                Console.WriteLine(string.Join(" ", result));
+            }
+        }
+        
+
+        
     }
 
     static void Backtrack(int[] coins, int remaining, int index, List<int> current, List<List<int>> results)
